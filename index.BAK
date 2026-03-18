@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Subtitle Converter (TTML ⇄ SRT ⇄ VTT)</title>
     <base href="/" />
-    <link href="_framework/dotnet.7rn097a4us.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" />
+    <link href="_framework/dotnet.7rn097a4us.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-vcKgF1Ni+Zr4oeWxL3ORK0DcYhzPySHCoHWv+UyOeTQ=" />
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
@@ -18,7 +18,17 @@
     "./_framework/dotnet.native.js": "./_framework/dotnet.native.4xbsgn06op.js",
     "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zj9dll5ffg.js"
   },
-  "scopes": {}
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/dotnet.7rn097a4us.js": "sha256-vcKgF1Ni+Zr4oeWxL3ORK0DcYhzPySHCoHWv+UyOeTQ=",
+    "./_framework/dotnet.js": "sha256-vcKgF1Ni+Zr4oeWxL3ORK0DcYhzPySHCoHWv+UyOeTQ=",
+    "./_framework/dotnet.native.4xbsgn06op.js": "sha256-WHdERxxgCQA79nOtWAOvxQ2f7p1kEx+swJwfE4AE9Nk=",
+    "./_framework/dotnet.native.js": "sha256-WHdERxxgCQA79nOtWAOvxQ2f7p1kEx+swJwfE4AE9Nk=",
+    "./_framework/dotnet.runtime.js": "sha256-YdXsn/a7hb+UMypOFCf8bmv3S6PbDPewiNWqmUM/1dk=",
+    "./_framework/dotnet.runtime.zj9dll5ffg.js": "sha256-YdXsn/a7hb+UMypOFCf8bmv3S6PbDPewiNWqmUM/1dk="
+  }
 }</script>
 </head>
 
