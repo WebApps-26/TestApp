@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Subtitle Converter (TTML ⇄ SRT ⇄ VTT)</title>
     <base href="/TestApp/" />
-    <link href="_framework/dotnet.d1emmgqcuu.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" />
+    <link href="_framework/dotnet.kf8bc4lqgy.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-cOsMRg5wfTQOYMj1YzaNLUJAXB7jlQrzylVowaUzegA=" />
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
@@ -14,9 +14,9 @@
     <script type="importmap">{
   "imports": {
     "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.d1emmgqcuu.js",
-    "./_framework/dotnet.native.js": "./_framework/dotnet.native.rjbmzc4jpg.js",
-    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.r2kbxkuujc.js"
+    "./_framework/dotnet.js": "./_framework/dotnet.kf8bc4lqgy.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.wnq8miz09i.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js"
   },
   "scopes": {}
 }</script>
